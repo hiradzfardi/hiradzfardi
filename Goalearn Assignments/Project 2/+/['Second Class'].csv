@@ -1,0 +1,260 @@
+,Ship Mode,State,Sales,Profit
+0,Second Class,Kentucky,261.96,41.913599999999974
+1,Second Class,Kentucky,731.94,219.5820000000001
+2,Second Class,California,14.62,6.8713999999999995
+17,Second Class,Utah,55.5,9.990000000000002
+18,Second Class,California,8.56,2.4824
+19,Second Class,California,213.48,16.010999999999996
+20,Second Class,California,22.72,7.383999999999999
+23,Second Class,Pennsylvania,71.372,-1.019599999999997
+25,Second Class,California,11.648,4.2223999999999995
+26,Second Class,California,90.57,11.77409999999999
+34,Second Class,Texas,29.472,9.9468
+46,Second Class,Michigan,211.96,8.478400000000022
+71,Second Class,Michigan,19.05,8.763
+78,Second Class,Texas,19.3,-14.474999999999998
+85,Second Class,South Carolina,301.96,33.215599999999995
+88,Second Class,Texas,158.368,13.857200000000006
+92,Second Class,Minnesota,12.96,6.2208000000000006
+93,Second Class,Minnesota,53.34,16.535400000000003
+94,Second Class,Minnesota,32.96,16.1504
+96,Second Class,New York,96.53,40.5426
+102,Second Class,Minnesota,23.92,11.720800000000002
+113,Second Class,Ohio,40.096,14.534799999999997
+114,Second Class,Ohio,4.72,1.6519999999999997
+115,Second Class,Ohio,23.976,7.4925
+116,Second Class,Ohio,130.464,44.0316
+124,Second Class,Texas,600.558,-8.579399999999964
+128,Second Class,California,81.424,-9.160199999999989
+129,Second Class,California,238.56,26.241600000000005
+140,Second Class,Pennsylvania,82.8,10.349999999999994
+157,Second Class,Washington,457.568,51.476399999999956
+161,Second Class,Pennsylvania,54.384,1.3596000000000004
+176,Second Class,Texas,97.264,-243.15999999999997
+177,Second Class,Ohio,396.802,-11.337199999999996
+178,Second Class,Ohio,15.88,-3.771499999999998
+180,Second Class,Illinois,24.816,1.8612000000000002
+181,Second Class,Illinois,408.744,76.63950000000006
+182,Second Class,Louisiana,503.96,131.02959999999996
+183,Second Class,Louisiana,149.95,41.98599999999999
+184,Second Class,Louisiana,29.0,7.25
+203,Second Class,Texas,66.284,-178.96679999999998
+211,Second Class,Texas,20.8,6.5
+237,Second Class,Illinois,25.92,9.396
+238,Second Class,Illinois,419.68,-356.728
+239,Second Class,Illinois,11.688,-4.6751999999999985
+240,Second Class,Illinois,31.984,11.194400000000002
+241,Second Class,Illinois,177.225,-120.513
+242,Second Class,Illinois,4.044,-2.8308
+243,Second Class,Illinois,7.408,1.2038000000000002
+244,Second Class,Minnesota,2001.86,580.5393999999999
+245,Second Class,Minnesota,166.72,41.67999999999999
+246,Second Class,Minnesota,47.88,23.94
+247,Second Class,Minnesota,1503.25,496.0725
+248,Second Class,Minnesota,25.92,12.441600000000001
+249,Second Class,California,321.568,28.137200000000007
+258,Second Class,New York,20.37,6.925800000000001
+259,Second Class,New York,221.55,6.646500000000003
+260,Second Class,New York,17.52,6.132
+262,Second Class,Texas,3059.982,-509.99699999999984
+263,Second Class,Texas,2519.958,-251.9957999999997
+270,Second Class,California,725.84,210.49360000000001
+280,Second Class,Texas,2.08,-3.4319999999999995
+281,Second Class,Texas,1114.4,376.1100000000001
+286,Second Class,Florida,254.058,-169.372
+287,Second Class,Florida,194.528,24.316000000000003
+288,Second Class,Florida,961.48,-204.31449999999995
+289,Second Class,Ohio,19.096,6.6836
+290,Second Class,Ohio,18.496,6.242399999999998
+291,Second Class,Ohio,255.984,54.39660000000001
+292,Second Class,Ohio,86.97,-48.70320000000001
+304,Second Class,New York,26.8,12.864
+309,Second Class,Colorado,15.136,3.5947999999999993
+310,Second Class,Colorado,466.768,52.51139999999998
+311,Second Class,Colorado,15.232,1.7135999999999996
+312,Second Class,Colorado,6.264,2.0358
+325,Second Class,Tennessee,15.992,0.9995000000000012
+331,Second Class,Pennsylvania,82.8,-20.700000000000003
+332,Second Class,Pennsylvania,20.724,-13.815999999999999
+333,Second Class,Pennsylvania,4.896,-3.4272
+334,Second Class,California,4.752,1.6037999999999997
+335,Second Class,California,959.984,335.99440000000004
+336,Second Class,California,14.368,4.49
+339,Second Class,Utah,4.96,2.3312
+340,Second Class,Pennsylvania,17.856,1.1160000000000032
+341,Second Class,Pennsylvania,509.97,-407.976
+342,Second Class,Pennsylvania,30.992,10.072400000000002
+343,Second Class,Pennsylvania,71.928,8.391599999999997
+383,Second Class,Michigan,41.9,8.799
+391,Second Class,Washington,246.384,27.718199999999996
+392,Second Class,Washington,1799.97,701.9883
+393,Second Class,Illinois,12.462,-20.562299999999997
+395,Second Class,Rhode Island,49.96,9.492400000000004
+396,Second Class,Rhode Island,12.96,6.2208000000000006
+398,Second Class,Texas,35.952,3.5951999999999984
+399,Second Class,Texas,2396.2656,-317.15279999999984
+400,Second Class,Texas,131.136,-32.78399999999999
+401,Second Class,Texas,57.584,0.7198000000000064
+424,Second Class,Mississippi,866.4,225.264
+425,Second Class,Michigan,28.4,11.075999999999997
+426,Second Class,Michigan,287.92,138.2016
+436,Second Class,Illinois,1007.979,43.199100000000044
+437,Second Class,Illinois,313.488,113.6394
+439,Second Class,New York,207.846,2.3094000000000108
+440,Second Class,Michigan,12.22,3.6660000000000004
+441,Second Class,Michigan,194.94,23.392799999999994
+442,Second Class,Michigan,70.95,20.575500000000005
+443,Second Class,Michigan,91.36,42.0256
+444,Second Class,Michigan,242.94,29.152799999999985
+445,Second Class,Michigan,22.05,10.584000000000001
+446,Second Class,Indiana,2.91,1.3677000000000001
+447,Second Class,New York,59.52,15.475200000000001
+448,Second Class,New York,161.94,9.716399999999993
+449,Second Class,New York,263.88,71.2476
+450,Second Class,New York,30.48,7.924800000000001
+451,Second Class,New York,9.84,2.8536
+452,Second Class,New York,35.12,9.131199999999996
+469,Second Class,Illinois,4.788,-7.9002
+471,Second Class,California,340.92,3.4091999999999985
+472,Second Class,California,222.666,10.478399999999993
+473,Second Class,California,703.968,87.99599999999998
+474,Second Class,California,92.52,24.980400000000003
+475,Second Class,California,62.65,28.818999999999996
+476,Second Class,California,94.85,45.52799999999999
+488,Second Class,Texas,7.992,0.5994000000000002
+489,Second Class,Texas,63.984,10.397400000000005
+490,Second Class,Texas,70.368,6.157199999999989
+494,Second Class,Tennessee,189.882,-94.94099999999997
+505,Second Class,New York,15.92,5.372999999999999
+531,Second Class,California,190.72,11.919999999999987
+533,Second Class,Alabama,979.95,274.3860000000001
+534,Second Class,Alabama,22.75,11.375
+536,Second Class,Illinois,42.616,-68.1856
+548,Second Class,Illinois,250.272,15.641999999999996
+549,Second Class,Illinois,11.364,-17.046
+550,Second Class,Illinois,8.72,-1.7439999999999998
+551,Second Class,California,1121.568,0.0
+554,Second Class,California,1295.78,310.9871999999999
+555,Second Class,North Carolina,19.456,3.404799999999998
+559,Second Class,California,42.6,16.614
+560,Second Class,California,84.056,27.318199999999997
+561,Second Class,Florida,13.0,1.3000000000000007
+562,Second Class,Florida,13.128,3.7743
+575,Second Class,California,160.72,78.7528
+576,Second Class,California,19.92,9.760800000000001
+577,Second Class,California,7.3,2.1899999999999995
+612,Second Class,Pennsylvania,8.448,2.6400000000000006
+613,Second Class,Pennsylvania,728.946,-157.93830000000003
+614,Second Class,Ohio,119.94,15.992000000000004
+615,Second Class,Ohio,3.648,-2.7967999999999997
+616,Second Class,New York,40.48,15.787199999999999
+617,Second Class,New York,9.94,3.0813999999999995
+618,Second Class,New York,107.424,33.57000000000001
+619,Second Class,New York,37.91,10.993899999999996
+620,Second Class,New York,88.02,27.286199999999994
+630,Second Class,Colorado,243.384,-51.7191
+631,Second Class,Colorado,119.8,29.950000000000003
+632,Second Class,Colorado,300.768,30.07679999999999
+633,Second Class,Florida,17.88,2.458499999999999
+634,Second Class,Florida,235.944,85.52969999999999
+635,Second Class,Georgia,392.94,43.22339999999997
+641,Second Class,California,330.4,85.90399999999997
+642,Second Class,California,26.25,12.6
+648,Second Class,Washington,14.8,6.068000000000001
+649,Second Class,Washington,302.376,22.678200000000004
+650,Second Class,Washington,316.0,31.600000000000023
+665,Second Class,Texas,23.76,2.0790000000000006
+666,Second Class,Texas,85.056,28.706399999999995
+667,Second Class,Texas,381.576,28.6182
+689,Second Class,Virginia,104.01,14.561400000000006
+690,Second Class,Virginia,284.82,74.0532
+691,Second Class,Virginia,36.84,10.315200000000004
+702,Second Class,Washington,209.88,35.67959999999999
+715,Second Class,Washington,19.92,6.972000000000001
+748,Second Class,Illinois,11.992,0.8994000000000018
+763,Second Class,Louisiana,11.36,5.339199999999999
+764,Second Class,Louisiana,50.94,25.47
+765,Second Class,Louisiana,646.74,258.696
+766,Second Class,Louisiana,5.64,2.7072
+767,Second Class,Louisiana,572.58,34.35480000000007
+781,Second Class,Ohio,32.07,-22.448999999999998
+782,Second Class,Ohio,24.0,-2.6999999999999993
+783,Second Class,Ohio,35.49,-15.6156
+784,Second Class,Ohio,47.984,0.5998000000000019
+786,Second Class,California,17.456,5.891399999999999
+802,Second Class,New York,355.32,99.4896
+829,Second Class,Kentucky,301.96,90.58799999999997
+830,Second Class,Kentucky,180.66,50.5848
+831,Second Class,Kentucky,191.98,51.834599999999995
+832,Second Class,Kentucky,65.99,17.157399999999996
+836,Second Class,Texas,51.184,-79.33520000000001
+850,Second Class,California,5.16,1.3416000000000001
+851,Second Class,California,38.88,18.6624
+862,Second Class,Florida,191.472,40.68780000000001
+863,Second Class,Florida,5.248,0.5903999999999998
+864,Second Class,Florida,59.184,5.178599999999996
+879,Second Class,New York,68.472,23.109299999999998
+880,Second Class,New York,1242.9,262.3900000000001
+885,Second Class,California,13.944,4.5318000000000005
+896,Second Class,Texas,15.648,5.0855999999999995
+898,Second Class,New York,46.96,22.5408
+956,Second Class,Arizona,29.592,2.589299999999998
+957,Second Class,Arizona,4.752,-3.168
+958,Second Class,Arizona,15.552,5.637599999999999
+963,Second Class,Florida,4.608,1.6703999999999994
+970,Second Class,Pennsylvania,127.104,28.598399999999998
+971,Second Class,Pennsylvania,124.2,-31.049999999999997
+972,Second Class,Pennsylvania,18.588,-13.6312
+973,Second Class,Pennsylvania,30.072,10.1493
+974,Second Class,New York,160.93,3.2186000000000092
+975,Second Class,New York,75.792,25.5798
+981,Second Class,Colorado,3.392,0.8056000000000001
+982,Second Class,Colorado,559.984,55.99840000000006
+983,Second Class,Colorado,603.92,75.49000000000001
+990,Second Class,Florida,1166.92,131.27850000000012
+1011,Second Class,Washington,155.25,46.575
+1012,Second Class,Washington,14.03,4.0687
+1013,Second Class,Washington,1618.37,356.04139999999984
+1014,Second Class,Washington,99.6,36.852
+1015,Second Class,California,32.4,15.552
+1025,Second Class,Ohio,15.552,5.443199999999999
+1026,Second Class,Ohio,63.312,20.5764
+1027,Second Class,Ohio,15.588,-9.8724
+1041,Second Class,New York,31.86,11.151
+1042,Second Class,New York,722.352,90.29399999999998
+1048,Second Class,California,1113.504,125.26919999999996
+1049,Second Class,California,99.99,37.996199999999995
+1068,Second Class,Texas,1.744,-0.3488
+1077,Second Class,Washington,119.96,33.58879999999999
+1078,Second Class,Washington,31.44,8.488800000000001
+1079,Second Class,Washington,6.88,2.322
+1087,Second Class,California,71.976,7.197599999999994
+1088,Second Class,California,3.15,1.512
+1113,Second Class,California,46.672,16.335199999999997
+1114,Second Class,California,119.833,-12.688199999999995
+1115,Second Class,California,119.98,57.5904
+1116,Second Class,California,6.3,3.024
+1136,Second Class,Indiana,287.52,129.384
+1137,Second Class,Indiana,37.68,10.5504
+1138,Second Class,Indiana,19.98,8.991
+1139,Second Class,Indiana,20.58,5.556599999999998
+1140,Second Class,Indiana,17.38,8.69
+1158,Second Class,California,195.184,19.518399999999986
+1161,Second Class,California,53.94,15.642599999999995
+1167,Second Class,New York,109.48,33.9388
+1168,Second Class,New York,272.94,0.0
+1169,Second Class,New York,19.44,9.3312
+1170,Second Class,New York,31.92,8.299200000000003
+1176,Second Class,California,11.56,5.4332
+1179,Second Class,Texas,258.696,64.67400000000004
+1188,Second Class,California,81.92,22.1184
+1189,Second Class,California,889.536,66.71519999999998
+1190,Second Class,California,892.224,89.2224
+1191,Second Class,California,223.92,109.72079999999998
+1192,Second Class,California,23.12,11.328800000000001
+1206,Second Class,New York,11.21,3.3630000000000004
+1207,Second Class,New York,9.144,3.2004
+1208,Second Class,New York,14.07,6.8943
+1209,Second Class,New York,41.86,10.465
+1210,Second Class,New York,8.544,2.8836000000000004
+1211,Second Class,New York,579.136,21.717599999999948

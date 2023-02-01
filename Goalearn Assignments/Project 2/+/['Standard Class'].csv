@@ -1,0 +1,715 @@
+,Ship Mode,State,Sales,Profit
+3,Standard Class,Florida,957.5775,-383.03100000000006
+4,Standard Class,Florida,22.368,2.5163999999999973
+5,Standard Class,California,48.86,14.169399999999996
+6,Standard Class,California,7.28,1.9656000000000002
+7,Standard Class,California,907.152,90.7152000000001
+8,Standard Class,California,18.504,5.782500000000001
+9,Standard Class,California,114.9,34.47
+10,Standard Class,California,1706.184,85.30919999999992
+11,Standard Class,California,911.424,68.35680000000002
+12,Standard Class,North Carolina,15.552,5.443199999999999
+13,Standard Class,Washington,407.976,132.5922
+14,Standard Class,Texas,68.81,-123.858
+15,Standard Class,Texas,2.544,-3.8160000000000003
+16,Standard Class,Wisconsin,665.88,13.31759999999997
+21,Standard Class,Nebraska,19.46,5.059600000000001
+22,Standard Class,Nebraska,60.34,15.688400000000001
+24,Standard Class,Utah,1044.63,240.26490000000013
+27,Standard Class,Pennsylvania,3083.43,-1665.0522000000005
+28,Standard Class,Pennsylvania,9.618,-7.053199999999999
+29,Standard Class,Pennsylvania,124.2,15.525000000000006
+30,Standard Class,Pennsylvania,3.264,1.1016
+31,Standard Class,Pennsylvania,86.304,9.709199999999996
+32,Standard Class,Pennsylvania,6.858,-5.715000000000001
+33,Standard Class,Pennsylvania,15.76,3.5459999999999994
+37,Standard Class,Texas,113.328,35.415000000000006
+38,Standard Class,Texas,532.3992,-46.97640000000001
+39,Standard Class,Texas,212.058,-15.14700000000002
+40,Standard Class,Texas,371.168,41.756399999999985
+41,Standard Class,Illinois,147.168,16.556399999999996
+42,Standard Class,California,77.88,3.8939999999999912
+43,Standard Class,Florida,95.616,9.561599999999999
+47,Standard Class,Delaware,45.0,4.950000000000003
+48,Standard Class,Delaware,21.8,6.104000000000001
+49,Standard Class,Indiana,38.22,17.9634
+50,Standard Class,Indiana,75.18,35.33460000000001
+51,Standard Class,Indiana,6.16,2.9568000000000003
+52,Standard Class,Indiana,89.99,17.098099999999988
+53,Standard Class,New York,15.26,6.256600000000001
+54,Standard Class,New York,1029.95,298.68550000000005
+62,Standard Class,California,13.98,6.1512
+63,Standard Class,California,25.824,9.3612
+64,Standard Class,California,146.73,68.96309999999998
+65,Standard Class,California,79.76,22.332800000000006
+66,Standard Class,Illinois,213.115,-15.222499999999997
+67,Standard Class,Arizona,1113.024,111.30239999999992
+68,Standard Class,Arizona,167.968,62.987999999999985
+70,Standard Class,New York,4.616,1.7309999999999999
+72,Standard Class,Tennessee,831.936,-114.39119999999991
+73,Standard Class,Tennessee,97.04,1.213000000000008
+74,Standard Class,Tennessee,72.784,-18.195999999999998
+81,Standard Class,California,14.9,4.172000000000001
+82,Standard Class,California,21.39,6.203100000000001
+83,Standard Class,North Carolina,200.984,62.807500000000005
+86,Standard Class,Minnesota,19.99,6.796599999999998
+87,Standard Class,Minnesota,6.16,2.9568000000000003
+89,Standard Class,California,20.1,6.633000000000001
+90,Standard Class,California,73.584,8.278199999999998
+91,Standard Class,California,6.48,3.1104000000000003
+95,Standard Class,Oregon,5.682,-3.7880000000000003
+98,Standard Class,Minnesota,77.88,22.585199999999993
+99,Standard Class,Illinois,64.624,22.618399999999994
+100,Standard Class,Illinois,95.976,-10.797300000000007
+101,Standard Class,Illinois,1.788,-3.0396
+103,Standard Class,Colorado,238.896,-26.875799999999998
+104,Standard Class,Colorado,102.36,-3.8384999999999962
+105,Standard Class,Colorado,36.882,-25.8174
+106,Standard Class,North Carolina,74.112,17.601599999999998
+107,Standard Class,North Carolina,27.992,2.0993999999999993
+108,Standard Class,North Carolina,3.304,1.0737999999999999
+109,Standard Class,Illinois,339.96,67.99199999999996
+110,Standard Class,New York,41.96,10.909600000000001
+111,Standard Class,Iowa,75.96,22.787999999999997
+112,Standard Class,Iowa,27.24,13.347599999999998
+117,Standard Class,Washington,787.53,165.3813
+118,Standard Class,Tennessee,157.794,-115.71559999999997
+125,Standard Class,Illinois,617.7,-407.682
+126,Standard Class,Arizona,2.388,-1.8308
+127,Standard Class,Arizona,243.992,30.498999999999995
+133,Standard Class,California,20.04,9.6192
+134,Standard Class,California,35.44,16.656799999999997
+135,Standard Class,California,11.52,3.4559999999999995
+136,Standard Class,California,4.02,1.9697999999999998
+137,Standard Class,California,76.176,26.6616
+138,Standard Class,California,65.88,18.446399999999997
+139,Standard Class,California,43.12,20.697599999999998
+141,Standard Class,California,8.82,2.3814
+142,Standard Class,California,10.86,5.1042
+143,Standard Class,California,143.7,68.97599999999998
+144,Standard Class,Missouri,839.43,218.2518
+145,Standard Class,California,671.93,20.157899999999927
+146,Standard Class,Ohio,93.888,12.909600000000012
+147,Standard Class,Wisconsin,384.45,103.80149999999998
+148,Standard Class,Wisconsin,149.97,5.998799999999989
+149,Standard Class,Wisconsin,1951.84,585.5519999999999
+150,Standard Class,Wisconsin,171.55,80.62850000000002
+156,Standard Class,Washington,6.63,1.7900999999999998
+158,Standard Class,Oklahoma,14.62,6.8713999999999995
+159,Standard Class,Oklahoma,944.93,236.23249999999996
+162,Standard Class,New Mexico,28.4,13.347999999999999
+163,Standard Class,Washington,27.68,9.687999999999999
+164,Standard Class,Texas,9.936,2.7324
+165,Standard Class,Texas,8159.952,-1359.9919999999993
+166,Standard Class,Texas,275.928,-58.63470000000001
+167,Standard Class,Texas,1740.06,-24.857999999999947
+168,Standard Class,Texas,32.064,6.813600000000001
+169,Standard Class,Texas,177.98,-453.84899999999993
+170,Standard Class,Texas,143.976,8.998500000000007
+171,Standard Class,California,20.94,9.841800000000001
+172,Standard Class,California,110.96,53.260799999999996
+173,Standard Class,California,340.144,21.259000000000015
+174,Standard Class,Illinois,52.448,-131.12
+175,Standard Class,Illinois,20.16,6.552
+179,Standard Class,New York,3.28,1.4103999999999999
+185,Standard Class,Connecticut,7.16,3.4368000000000003
+186,Standard Class,California,176.8,22.98400000000001
+187,Standard Class,Texas,37.224,3.7223999999999933
+188,Standard Class,Texas,20.016,6.254999999999999
+194,Standard Class,California,14.28,6.7116
+195,Standard Class,Ohio,7.408,1.2038000000000002
+196,Standard Class,Ohio,6.048,1.5876000000000001
+197,Standard Class,New Jersey,46.26,12.0276
+198,Standard Class,Pennsylvania,2.946,-2.2586
+199,Standard Class,Pennsylvania,16.056,5.820300000000001
+200,Standard Class,Ohio,21.744,6.795
+204,Standard Class,Tennessee,35.168,9.671199999999999
+205,Standard Class,California,444.768,44.47679999999997
+206,Standard Class,Michigan,83.92,5.8744000000000085
+207,Standard Class,Michigan,131.98,35.63459999999999
+208,Standard Class,Michigan,15.92,7.4824
+209,Standard Class,Michigan,52.29,16.209899999999998
+210,Standard Class,Michigan,91.99,3.6795999999999935
+212,Standard Class,Ohio,23.68,8.879999999999999
+213,Standard Class,Ohio,452.45,-244.32300000000004
+214,Standard Class,Ohio,62.982,-14.695800000000006
+215,Standard Class,Ohio,1188.0,-950.4000000000001
+216,Standard Class,Ohio,89.584,4.479200000000006
+217,Standard Class,California,93.06,26.056799999999996
+218,Standard Class,California,302.376,22.678200000000004
+225,Standard Class,Michigan,2.2,0.9680000000000002
+226,Standard Class,Michigan,622.45,136.93900000000002
+227,Standard Class,Michigan,21.98,0.21979999999999933
+228,Standard Class,Tennessee,161.568,-28.274399999999986
+229,Standard Class,Tennessee,389.696,43.8408
+230,Standard Class,North Carolina,18.648,-12.431999999999999
+231,Standard Class,Florida,233.86,-102.048
+232,Standard Class,Florida,620.6145,-248.24580000000003
+233,Standard Class,Florida,5.328,-3.5520000000000005
+234,Standard Class,Florida,258.072,0.0
+235,Standard Class,Florida,617.976,-7.724699999999984
+236,Standard Class,California,10.56,4.752000000000001
+250,Standard Class,California,7.61,3.5767000000000007
+251,Standard Class,California,3347.37,636.0002999999997
+254,Standard Class,Illinois,12.132,-8.492400000000002
+255,Standard Class,Illinois,82.368,-19.56240000000001
+256,Standard Class,Illinois,53.92,4.044000000000004
+257,Standard Class,Illinois,647.904,56.691599999999994
+261,Standard Class,Texas,1.624,-4.465999999999999
+264,Standard Class,Illinois,328.224,28.719600000000014
+265,Standard Class,California,79.9,35.156000000000006
+266,Standard Class,North Carolina,14.016,4.7303999999999995
+267,Standard Class,New Jersey,7.56,0.30239999999999956
+268,Standard Class,Ohio,37.208,-7.441600000000001
+269,Standard Class,Ohio,57.576,21.591
+276,Standard Class,Pennsylvania,11.648,4.0767999999999995
+277,Standard Class,Pennsylvania,18.176,5.907199999999998
+278,Standard Class,Pennsylvania,59.712,5.971200000000003
+279,Standard Class,Pennsylvania,24.84,8.693999999999999
+282,Standard Class,California,1038.84,51.941999999999894
+283,Standard Class,Oregon,141.76,47.843999999999994
+284,Standard Class,Oregon,239.8,47.96000000000001
+285,Standard Class,Oregon,31.104,10.886399999999998
+298,Standard Class,New Jersey,32.4,15.552
+299,Standard Class,New Jersey,1082.48,10.824800000000096
+300,Standard Class,New Jersey,56.91,27.316799999999997
+301,Standard Class,New Jersey,77.6,38.023999999999994
+302,Standard Class,New Jersey,14.28,6.5687999999999995
+303,Standard Class,Illinois,219.075,-131.445
+305,Standard Class,Michigan,9.84,2.8536
+306,Standard Class,New Jersey,45.48,20.920799999999996
+307,Standard Class,New Jersey,289.2,83.868
+313,Standard Class,New Jersey,87.54,37.64220000000001
+314,Standard Class,Florida,178.384,22.297999999999973
+315,Standard Class,Florida,15.552,5.443199999999999
+317,Standard Class,New York,135.882,24.156800000000004
+318,Standard Class,New York,3991.98,1995.99
+319,Standard Class,New York,275.94,80.02260000000001
+320,Standard Class,New York,360.0,129.6
+321,Standard Class,New York,43.57,13.071000000000002
+322,Standard Class,California,7.16,3.58
+323,Standard Class,California,251.52,81.744
+324,Standard Class,California,99.99,34.9965
+337,Standard Class,California,7.712,2.7955999999999994
+338,Standard Class,California,698.352,-17.458799999999997
+344,Standard Class,Texas,88.8,-2.219999999999999
+345,Standard Class,California,47.976,4.797599999999996
+346,Standard Class,Massachusetts,7.56,3.0995999999999997
+347,Standard Class,Massachusetts,24.56,11.543199999999999
+348,Standard Class,Massachusetts,12.96,4.1472000000000016
+354,Standard Class,New York,388.704,-4.858799999999974
+355,Standard Class,New York,8.26,3.7996
+356,Standard Class,New York,17.04,6.9864
+357,Standard Class,New York,34.4,15.823999999999998
+358,Standard Class,North Carolina,36.24,11.325000000000003
+361,Standard Class,New York,20.7,9.936
+362,Standard Class,New York,488.646,86.87040000000002
+363,Standard Class,New York,5.56,1.4455999999999998
+364,Standard Class,New York,47.12,20.732799999999997
+365,Standard Class,California,211.96,8.478400000000022
+370,Standard Class,Texas,25.92,9.396
+371,Standard Class,Texas,53.424,4.674599999999998
+372,Standard Class,Arizona,8.16,-5.712
+373,Standard Class,Arizona,1023.936,179.18880000000001
+374,Standard Class,Arizona,9.24,0.9239999999999995
+375,Standard Class,Arizona,479.04,-29.939999999999998
+377,Standard Class,Massachusetts,1488.424,-297.6848
+378,Standard Class,Texas,8.652,-20.3322
+379,Standard Class,Texas,23.832,2.6811000000000007
+380,Standard Class,Texas,12.176,-18.872799999999998
+384,Standard Class,Florida,375.4575,-157.0095
+385,Standard Class,Florida,83.976,-1.0497000000000014
+386,Standard Class,Pennsylvania,482.34,-337.638
+387,Standard Class,Pennsylvania,2.96,0.7770000000000001
+389,Standard Class,New York,23.36,7.883999999999999
+390,Standard Class,New York,39.98,13.593199999999996
+394,Standard Class,Nevada,75.792,25.5798
+397,Standard Class,Michigan,70.12,21.036
+403,Standard Class,North Carolina,39.072,9.768000000000004
+404,Standard Class,New York,35.91,9.695699999999995
+405,Standard Class,California,179.95,37.789499999999975
+406,Standard Class,California,1199.976,434.99130000000014
+407,Standard Class,California,27.15,13.303499999999998
+408,Standard Class,California,1004.024,-112.95269999999994
+409,Standard Class,California,9.68,4.6464
+410,Standard Class,California,28.35,13.608
+411,Standard Class,California,55.98,27.430199999999996
+412,Standard Class,California,1336.829,31.454799999999977
+413,Standard Class,California,113.568,-18.45479999999999
+414,Standard Class,Washington,139.86,65.73420000000002
+415,Standard Class,Washington,307.136,26.874400000000037
+416,Standard Class,California,95.92,25.898399999999995
+417,Standard Class,California,383.8,38.379999999999995
+418,Standard Class,Kentucky,5.78,2.8322000000000003
+419,Standard Class,California,9.32,2.7028
+420,Standard Class,California,15.25,7.015000000000001
+422,Standard Class,Massachusetts,56.56,14.705600000000004
+423,Standard Class,Massachusetts,32.7,8.502000000000002
+428,Standard Class,Texas,6.672,0.5004
+429,Standard Class,North Carolina,189.588,-145.35080000000002
+430,Standard Class,North Carolina,408.744,76.63950000000006
+431,Standard Class,North Carolina,291.96,54.74249999999998
+432,Standard Class,North Carolina,4.768,-0.7747999999999999
+434,Standard Class,Florida,4.812,-3.6892000000000005
+435,Standard Class,Florida,247.8,-18.58499999999998
+438,Standard Class,Texas,31.872,11.5536
+453,Standard Class,Ohio,284.364,-75.8304
+454,Standard Class,Ohio,665.408,66.54079999999999
+455,Standard Class,Oklahoma,63.88,24.913200000000003
+456,Standard Class,California,129.568,-24.293999999999983
+457,Standard Class,Illinois,747.558,-96.1146
+458,Standard Class,Illinois,8.928,3.3480000000000008
+459,Standard Class,Washington,103.92,36.372
+460,Standard Class,Washington,899.91,377.96219999999994
+461,Standard Class,Washington,51.312,18.6006
+462,Standard Class,Arizona,23.56,7.067999999999998
+463,Standard Class,Arizona,1272.63,-814.4831999999997
+464,Standard Class,Arizona,28.485,-20.889000000000003
+465,Standard Class,Arizona,185.376,-34.75799999999998
+466,Standard Class,Arizona,78.272,5.870400000000004
+467,Standard Class,Illinois,254.744,-312.06139999999994
+468,Standard Class,Texas,205.3328,-36.23520000000002
+470,Standard Class,New York,55.48,26.630399999999998
+477,Standard Class,California,95.76,7.182000000000002
+478,Standard Class,New York,40.2,19.296000000000003
+479,Standard Class,New York,14.7,6.614999999999998
+480,Standard Class,New York,704.25,84.50999999999999
+481,Standard Class,California,9.09,1.9089
+482,Standard Class,New York,5.96,1.6688
+483,Standard Class,New York,159.98,57.59279999999998
+491,Standard Class,New York,449.15,8.983000000000004
+492,Standard Class,New York,11.07,5.0922
+493,Standard Class,Washington,93.98,13.157200000000003
+495,Standard Class,Arkansas,105.42,51.6558
+496,Standard Class,California,119.616,40.370400000000004
+497,Standard Class,California,255.76,81.8432
+498,Standard Class,California,241.568,18.11760000000001
+499,Standard Class,California,69.3,22.869
+500,Standard Class,Colorado,22.62,-15.080000000000002
+501,Standard Class,Colorado,14.952,-11.961599999999999
+502,Standard Class,Colorado,801.568,50.097999999999956
+503,Standard Class,Colorado,2.376,-1.9007999999999998
+504,Standard Class,Colorado,32.792,11.8871
+506,Standard Class,Georgia,2.74,0.7398000000000002
+507,Standard Class,Georgia,8.34,2.1684
+508,Standard Class,Georgia,46.74,11.685000000000002
+509,Standard Class,Georgia,6354.95,3177.475
+513,Standard Class,California,6.63,1.7900999999999998
+514,Standard Class,California,5.88,1.7051999999999996
+515,Standard Class,Montana,2999.95,1379.9769999999999
+516,Standard Class,Montana,51.45,13.8915
+517,Standard Class,Montana,11.96,5.382000000000001
+518,Standard Class,Montana,1126.02,56.30099999999993
+519,Standard Class,Texas,18.392,5.287699999999999
+520,Standard Class,Texas,129.568,-25.913599999999974
+521,Standard Class,Texas,14.112,-21.168
+525,Standard Class,Massachusetts,22.2,10.434
+526,Standard Class,Florida,683.952,42.74699999999996
+527,Standard Class,Florida,45.696,5.140799999999999
+528,Standard Class,Pennsylvania,36.336,-7.2672000000000025
+529,Standard Class,Pennsylvania,666.248,-149.9058
+530,Standard Class,Pennsylvania,52.512,19.692
+532,Standard Class,California,47.94,2.3969999999999985
+535,Standard Class,Arizona,16.768,1.4672
+537,Standard Class,New York,10.752,3.3600000000000003
+538,Standard Class,Kentucky,152.94,41.293800000000005
+539,Standard Class,Kentucky,283.92,70.98000000000002
+542,Standard Class,Ohio,646.776,-145.52460000000008
+543,Standard Class,Texas,58.112,7.264000000000003
+544,Standard Class,Texas,100.792,6.299499999999995
+545,Standard Class,Texas,66.112,-84.2928
+553,Standard Class,Texas,10.824,2.5707000000000004
+556,Standard Class,California,20.7,9.936
+557,Standard Class,California,1335.68,-217.048
+558,Standard Class,California,32.4,15.552
+566,Standard Class,Washington,91.84,45.0016
+567,Standard Class,Washington,81.088,27.367199999999997
+568,Standard Class,Washington,19.44,9.3312
+569,Standard Class,Washington,451.152,0.0
+570,Standard Class,New York,72.45,34.776
+571,Standard Class,New York,13.96,6.421600000000001
+572,Standard Class,New York,33.264,11.226600000000001
+573,Standard Class,New York,14.85,4.009499999999999
+574,Standard Class,Washington,8.82,2.3814
+578,Standard Class,Illinois,69.712,8.714000000000006
+579,Standard Class,Illinois,8.792,-5.7148
+580,Standard Class,California,51.52,1.5456000000000003
+581,Standard Class,Colorado,470.376,52.917299999999955
+582,Standard Class,Colorado,105.584,9.238600000000005
+583,Standard Class,Colorado,31.152,3.5046
+584,Standard Class,Colorado,6.783,-4.7481
+585,Standard Class,Colorado,406.368,30.477599999999995
+586,Standard Class,Kentucky,70.98,4.968600000000009
+587,Standard Class,Kentucky,294.93,144.5157
+588,Standard Class,Oregon,84.784,-20.136199999999988
+589,Standard Class,Oregon,20.736,7.2576
+590,Standard Class,Oregon,16.821,-12.896099999999997
+591,Standard Class,Oregon,10.368,3.6288
+592,Standard Class,Texas,9.344,1.1679999999999993
+593,Standard Class,Texas,31.2,9.75
+594,Standard Class,California,76.12,22.074800000000003
+595,Standard Class,California,1199.976,434.99130000000014
+596,Standard Class,California,445.96,55.745000000000005
+597,Standard Class,California,327.76,91.77279999999999
+599,Standard Class,Pennsylvania,143.982,-28.796400000000006
+600,Standard Class,Pennsylvania,494.376,-115.35440000000006
+601,Standard Class,Pennsylvania,5.84,0.7299999999999995
+602,Standard Class,Florida,142.776,17.84700000000001
+603,Standard Class,Florida,45.696,5.140799999999999
+604,Standard Class,Florida,7.218,-5.533799999999999
+605,Standard Class,Florida,43.188,-31.6712
+606,Standard Class,Florida,131.904,47.81519999999999
+607,Standard Class,Pennsylvania,3.282,-2.6256000000000004
+608,Standard Class,Pennsylvania,21.168,2.3813999999999993
+609,Standard Class,Pennsylvania,55.188,-10.117800000000003
+621,Standard Class,Illinois,8.69,-14.773000000000001
+622,Standard Class,Michigan,301.96,87.56839999999997
+623,Standard Class,Michigan,555.21,178.901
+624,Standard Class,Michigan,523.48,130.87
+625,Standard Class,Michigan,161.82,46.92779999999999
+626,Standard Class,New York,35.56,12.090400000000002
+627,Standard Class,Washington,97.16,28.1764
+628,Standard Class,California,15.24,5.1434999999999995
+629,Standard Class,California,13.23,6.085800000000001
+636,Standard Class,Colorado,18.882,-13.846799999999998
+637,Standard Class,Colorado,122.328,12.232799999999997
+638,Standard Class,California,1049.2,272.79200000000003
+639,Standard Class,California,15.424,5.0128
+640,Standard Class,Minnesota,18.84,6.0288
+643,Standard Class,Michigan,132.52,54.333200000000005
+644,Standard Class,New Jersey,6.48,3.1752000000000002
+645,Standard Class,Indiana,209.3,56.511000000000024
+646,Standard Class,Arizona,31.56,9.862499999999997
+647,Standard Class,Arizona,30.144,3.0143999999999984
+651,Standard Class,New York,379.4,178.31799999999998
+652,Standard Class,New York,97.82,45.97539999999999
+653,Standard Class,New York,103.12,10.311999999999998
+654,Standard Class,Ohio,113.552,8.516400000000004
+655,Standard Class,Ohio,3.318,-2.6544000000000003
+656,Standard Class,Ohio,134.288,45.32220000000001
+659,Standard Class,Texas,999.432,124.92899999999997
+660,Standard Class,Texas,724.08,-135.765
+661,Standard Class,Texas,918.785,-118.12950000000012
+662,Standard Class,Texas,2.724,-4.2222
+663,Standard Class,New York,459.95,18.397999999999968
+669,Standard Class,Illinois,23.976,-14.385600000000004
+670,Standard Class,Illinois,108.925,-71.89049999999999
+671,Standard Class,Illinois,36.352,11.359999999999996
+672,Standard Class,Illinois,19.56,1.7114999999999974
+676,Standard Class,Texas,2.688,-7.3919999999999995
+677,Standard Class,Texas,27.816,4.520099999999999
+678,Standard Class,Texas,82.524,-41.262
+679,Standard Class,Texas,182.994,-320.2395
+680,Standard Class,New York,14.352,4.6644000000000005
+681,Standard Class,New York,64.96,2.598399999999991
+682,Standard Class,New York,68.6,18.52199999999999
+688,Standard Class,New York,191.984,4.799599999999998
+692,Standard Class,California,166.24,24.936000000000007
+693,Standard Class,California,33.4,16.032
+701,Standard Class,Ohio,15.072,4.1448
+703,Standard Class,California,369.912,-13.871700000000033
+704,Standard Class,North Carolina,10.368,3.6288
+705,Standard Class,North Carolina,166.84,18.769499999999994
+706,Standard Class,North Carolina,15.216,2.282399999999999
+711,Standard Class,Florida,24.448,8.862400000000001
+712,Standard Class,New York,281.34,109.72259999999997
+713,Standard Class,New York,307.98,89.31420000000003
+714,Standard Class,New York,299.97,113.98860000000002
+717,Standard Class,Ohio,103.056,24.475799999999992
+718,Standard Class,Utah,59.808,19.437600000000003
+719,Standard Class,Utah,73.32,21.995999999999995
+720,Standard Class,California,146.82,73.41
+721,Standard Class,Michigan,1652.94,231.41160000000013
+722,Standard Class,Michigan,296.37,80.0199
+723,Standard Class,Pennsylvania,129.92,21.11199999999998
+724,Standard Class,Florida,45.584,5.1282
+725,Standard Class,Texas,17.568,6.368400000000001
+726,Standard Class,Texas,55.992,5.599199999999996
+732,Standard Class,Washington,242.94,9.717600000000004
+733,Standard Class,Washington,179.97,86.3856
+734,Standard Class,Washington,99.696,33.647400000000005
+735,Standard Class,Washington,27.936,9.4284
+736,Standard Class,Washington,84.98,18.6956
+737,Standard Class,Washington,18.72,6.552
+738,Standard Class,California,49.98,8.496599999999994
+739,Standard Class,Illinois,11.784,4.271700000000001
+740,Standard Class,Illinois,272.736,-64.77480000000003
+741,Standard Class,Illinois,3.54,-5.486999999999999
+742,Standard Class,Texas,51.52,-10.948
+743,Standard Class,Texas,3.528,1.1465999999999998
+744,Standard Class,Texas,4.624,1.6761999999999997
+745,Standard Class,Texas,55.168,6.206400000000002
+749,Standard Class,Michigan,58.05,26.702999999999996
+750,Standard Class,Michigan,157.74,56.786400000000015
+751,Standard Class,Michigan,56.98,22.791999999999994
+752,Standard Class,Michigan,2.88,1.4111999999999998
+754,Standard Class,California,79.92,28.7712
+755,Standard Class,Florida,383.438,-167.3184
+756,Standard Class,Minnesota,24.56,6.876799999999999
+757,Standard Class,Minnesota,119.8,47.92
+758,Standard Class,New York,13.128,4.2666
+759,Standard Class,Wisconsin,22.72,10.223999999999998
+760,Standard Class,California,58.32,27.9936
+761,Standard Class,Georgia,12.39,5.699400000000001
+762,Standard Class,Ohio,107.982,-26.995499999999993
+768,Standard Class,Florida,310.88,23.315999999999974
+769,Standard Class,Virginia,641.96,179.74880000000002
+770,Standard Class,Iowa,18.28,9.14
+771,Standard Class,Iowa,207.0,51.75
+772,Standard Class,Iowa,32.35,16.175
+773,Standard Class,Iowa,7.71,3.4695
+774,Standard Class,Iowa,40.3,10.880999999999997
+775,Standard Class,Iowa,34.58,14.523599999999998
+776,Standard Class,Ohio,32.76,3.6854999999999976
+785,Standard Class,South Carolina,186.69,87.7443
+787,Standard Class,California,348.928,34.89280000000002
+788,Standard Class,Virginia,143.96,69.1008
+789,Standard Class,Virginia,15.42,4.163399999999999
+790,Standard Class,Virginia,43.04,21.0896
+791,Standard Class,Virginia,332.94,79.90559999999999
+793,Standard Class,California,9.96,4.581600000000001
+794,Standard Class,California,21.72,10.6428
+795,Standard Class,Minnesota,20.16,9.878400000000001
+799,Standard Class,California,283.92,17.745000000000005
+803,Standard Class,Louisiana,12.96,6.2208000000000006
+805,Standard Class,Colorado,43.176,4.317599999999999
+806,Standard Class,Colorado,1983.968,247.9960000000001
+816,Standard Class,Pennsylvania,5.344,1.8704000000000005
+817,Standard Class,Pennsylvania,41.472,14.5152
+818,Standard Class,Pennsylvania,3.168,-2.4288
+819,Standard Class,Pennsylvania,1228.465,0.0
+820,Standard Class,Pennsylvania,31.086,-22.7964
+821,Standard Class,Pennsylvania,335.52,117.43199999999999
+822,Standard Class,New Jersey,239.97,71.99099999999999
+823,Standard Class,New Jersey,9.82,4.8118
+824,Standard Class,California,67.8,4.067999999999998
+825,Standard Class,California,167.97,40.312799999999996
+826,Standard Class,Minnesota,35.0,16.8
+827,Standard Class,Minnesota,37.24,10.799600000000002
+828,Standard Class,Minnesota,15.28,7.4872
+833,Standard Class,Florida,35.216,2.6411999999999978
+834,Standard Class,Florida,23.696,6.516400000000001
+835,Standard Class,Florida,265.475,-111.49949999999995
+837,Standard Class,Tennessee,9.664,3.2615999999999996
+838,Standard Class,Texas,21.072,1.580400000000001
+839,Standard Class,New York,60.45,16.3215
+840,Standard Class,New York,11.52,3.3407999999999998
+841,Standard Class,New York,186.048,9.302400000000006
+846,Standard Class,Kentucky,83.72,23.4416
+847,Standard Class,Kentucky,287.94,77.7438
+848,Standard Class,Ohio,48.896,8.556800000000003
+849,Standard Class,New Jersey,115.36,49.6048
+852,Standard Class,Mississippi,185.88,50.1876
+853,Standard Class,New York,44.46,14.671800000000001
+854,Standard Class,New York,242.94,9.717600000000004
+855,Standard Class,New York,39.96,18.781200000000002
+856,Standard Class,New York,102.3,26.598
+857,Standard Class,New York,21.36,5.767199999999999
+858,Standard Class,New Jersey,7.61,3.5767000000000007
+859,Standard Class,New Jersey,7.16,3.58
+860,Standard Class,California,7.36,0.14720000000000066
+861,Standard Class,California,23.1,10.626000000000001
+865,Standard Class,Virginia,2.89,1.3583
+866,Standard Class,Virginia,51.94,21.295399999999997
+868,Standard Class,Pennsylvania,44.91,-35.928
+872,Standard Class,New York,11.36,5.225599999999999
+873,Standard Class,New York,106.344,37.2204
+874,Standard Class,North Carolina,192.16,67.256
+875,Standard Class,New Hampshire,322.59,64.51799999999997
+876,Standard Class,New Hampshire,29.99,13.195599999999999
+877,Standard Class,New Hampshire,371.97,66.95460000000003
+878,Standard Class,Pennsylvania,5.892,-4.1244000000000005
+881,Standard Class,Virginia,30.84,8.326799999999999
+884,Standard Class,New York,17.46,5.936400000000001
+886,Standard Class,California,83.76,1.6752000000000038
+887,Standard Class,Maryland,37.66,18.453399999999995
+888,Standard Class,California,34.68,16.993199999999998
+889,Standard Class,New York,149.95,14.994999999999976
+890,Standard Class,New York,51.312,18.6006
+897,Standard Class,Michigan,103.6,51.8
+903,Standard Class,California,20.04,9.6192
+904,Standard Class,California,64.96,2.598399999999991
+905,Standard Class,California,12.96,6.2208000000000006
+906,Standard Class,New York,323.136,12.117600000000039
+907,Standard Class,New York,90.93,2.7279000000000053
+908,Standard Class,New York,52.776,19.791000000000004
+909,Standard Class,Michigan,1199.8,323.9459999999999
+910,Standard Class,Michigan,1928.78,829.3753999999999
+911,Standard Class,Michigan,352.38,81.04739999999998
+912,Standard Class,Connecticut,22.2,9.101999999999999
+915,Standard Class,Texas,99.918,-18.55619999999999
+916,Standard Class,Texas,797.944,-56.996000000000095
+917,Standard Class,Texas,8.568,-14.565600000000002
+918,Standard Class,Texas,149.352,50.4063
+919,Standard Class,Texas,12.992,-0.8119999999999994
+920,Standard Class,Virginia,24.56,6.876799999999999
+921,Standard Class,New York,85.14,34.9074
+922,Standard Class,New York,21.99,10.5552
+923,Standard Class,New York,406.6,113.84800000000001
+924,Standard Class,New York,841.568,294.5488
+927,Standard Class,Virginia,46.2,12.936
+928,Standard Class,Virginia,28.84,9.517199999999999
+932,Standard Class,Pennsylvania,12.192,4.114800000000001
+933,Standard Class,Pennsylvania,45.056,15.206399999999999
+934,Standard Class,Pennsylvania,29.718,-21.793200000000002
+935,Standard Class,Pennsylvania,15.552,5.443199999999999
+936,Standard Class,Pennsylvania,447.696,33.577200000000005
+938,Standard Class,California,12.96,6.2208000000000006
+939,Standard Class,California,134.48,34.9648
+941,Standard Class,California,6.096,2.2098
+942,Standard Class,California,1114.272,41.78520000000003
+943,Standard Class,Washington,32.4,15.552
+944,Standard Class,Washington,540.57,140.54820000000007
+945,Standard Class,Washington,167.76,62.91
+947,Standard Class,Pennsylvania,516.488,-12.912199999999984
+948,Standard Class,Pennsylvania,1007.232,75.54239999999993
+949,Standard Class,Pennsylvania,2065.32,-619.596
+951,Standard Class,Pennsylvania,25.344,7.920000000000002
+952,Standard Class,Pennsylvania,25.472,7.6416
+953,Standard Class,Texas,27.168,2.716799999999999
+954,Standard Class,Texas,78.8528,-11.596000000000004
+955,Standard Class,Mississippi,173.8,43.45000000000002
+960,Standard Class,California,321.568,28.137200000000007
+961,Standard Class,Arkansas,6.24,3.0576000000000003
+976,Standard Class,Oregon,1.08,-0.792
+980,Standard Class,New York,599.292,93.22320000000002
+984,Standard Class,Texas,7.968,2.5896
+985,Standard Class,Texas,27.968,9.4392
+986,Standard Class,Texas,336.51,44.867999999999995
+988,Standard Class,New York,520.05,72.80699999999996
+989,Standard Class,New York,17.97,5.2113
+994,Standard Class,Virginia,2715.93,1276.4870999999998
+995,Standard Class,Virginia,617.97,173.03160000000003
+996,Standard Class,Kentucky,10.67,4.9082
+997,Standard Class,Kentucky,36.63,9.890100000000004
+998,Standard Class,Kentucky,24.1,9.158000000000001
+999,Standard Class,Kentucky,33.11,12.9129
+1000,Standard Class,Washington,44.02,11.4452
+1004,Standard Class,California,484.65,92.08349999999996
+1005,Standard Class,North Carolina,115.296,40.3536
+1008,Standard Class,Iowa,44.75,20.585
+1016,Standard Class,New York,13.96,6.700800000000001
+1017,Standard Class,New York,155.82,63.88619999999999
+1018,Standard Class,New York,124.95,2.4990000000000094
+1019,Standard Class,New York,601.65,156.42899999999997
+1020,Standard Class,District of Columbia,22.74,8.868599999999999
+1021,Standard Class,District of Columbia,1267.53,316.88249999999994
+1022,Standard Class,District of Columbia,1379.92,648.5624
+1023,Standard Class,Pennsylvania,6.208,2.1728000000000005
+1028,Standard Class,New Jersey,177.2,83.28399999999999
+1029,Standard Class,New Jersey,197.97,57.41130000000001
+1030,Standard Class,New Jersey,854.94,213.735
+1031,Standard Class,New Jersey,124.11,52.1262
+1032,Standard Class,New Jersey,14.4,7.056
+1036,Standard Class,Missouri,86.62,8.662000000000006
+1040,Standard Class,Missouri,697.16,146.40359999999998
+1045,Standard Class,Illinois,254.604,-18.186000000000007
+1046,Standard Class,Florida,1363.96,85.24749999999995
+1047,Standard Class,Florida,102.36,-3.8384999999999962
+1053,Standard Class,New York,11.16,4.3524
+1054,Standard Class,New York,108.4,22.76400000000001
+1055,Standard Class,New York,82.344,27.791099999999993
+1056,Standard Class,New York,9.088,3.2943999999999996
+1057,Standard Class,California,19.936,7.226800000000001
+1058,Standard Class,California,65.568,22.9488
+1059,Standard Class,Pennsylvania,4.416,1.6008000000000004
+1060,Standard Class,Texas,107.772,-29.25240000000001
+1061,Standard Class,Ohio,45.216,4.521599999999999
+1062,Standard Class,Ohio,10.416,-2.2134
+1063,Standard Class,Ohio,7.872,1.2791999999999994
+1064,Standard Class,Ohio,118.782,-27.715800000000016
+1065,Standard Class,Ohio,1.448,0.23530000000000006
+1066,Standard Class,Ohio,55.47,-46.224999999999994
+1069,Standard Class,Pennsylvania,25.176,-18.4624
+1070,Standard Class,California,19.46,5.059600000000001
+1071,Standard Class,Colorado,29.472,9.9468
+1072,Standard Class,New York,8.64,3.024000000000001
+1073,Standard Class,Arizona,6.27,-4.598000000000001
+1074,Standard Class,Arizona,4.368,-3.3487999999999998
+1075,Standard Class,Arizona,31.984,1.9990000000000023
+1080,Standard Class,Michigan,19.92,9.362400000000001
+1081,Standard Class,Michigan,1106.91,121.76010000000008
+1082,Standard Class,New York,836.592,-264.9208
+1083,Standard Class,New York,26.38,12.134799999999998
+1084,Standard Class,New York,362.92,105.24680000000001
+1085,Standard Class,New York,4899.93,2400.9657
+1089,Standard Class,North Carolina,31.984,1.9990000000000023
+1090,Standard Class,North Carolina,71.984,25.194399999999995
+1091,Standard Class,California,120.15,33.64200000000001
+1092,Standard Class,California,219.184,19.17859999999999
+1093,Standard Class,Maryland,28.9,14.160999999999998
+1094,Standard Class,Maryland,355.96,103.2284
+1095,Standard Class,North Carolina,348.208,30.468200000000024
+1096,Standard Class,North Carolina,35.784,-28.627199999999995
+1102,Standard Class,Texas,2.694,-4.7145
+1103,Standard Class,Texas,2.934,-4.9878
+1104,Standard Class,California,22.92,11.230800000000002
+1105,Standard Class,Texas,100.704,-16.364400000000003
+1106,Standard Class,Texas,2.328,-0.7566000000000002
+1107,Standard Class,Texas,10.78,-17.247999999999998
+1108,Standard Class,Texas,58.368,21.888000000000005
+1109,Standard Class,Texas,40.968,13.826700000000002
+1110,Standard Class,Texas,71.96,25.185999999999993
+1111,Standard Class,Texas,10.368,3.6288
+1112,Standard Class,Texas,1.192,-2.0263999999999998
+1117,Standard Class,Georgia,279.9,137.15099999999998
+1118,Standard Class,Georgia,619.95,111.59100000000007
+1119,Standard Class,Georgia,4.36,2.0492000000000004
+1120,Standard Class,Georgia,15.28,7.4872
+1121,Standard Class,Arkansas,699.93,181.9817999999999
+1122,Standard Class,Arkansas,22.96,6.6584
+1123,Standard Class,Arkansas,38.6,11.580000000000002
+1124,Standard Class,Arkansas,6.63,1.7900999999999998
+1125,Standard Class,Arkansas,23.34,10.9698
+1126,Standard Class,Arkansas,1067.94,224.26740000000007
+1127,Standard Class,Indiana,10.16,2.6416000000000004
+1128,Standard Class,Indiana,101.88,50.94
+1129,Standard Class,Virginia,343.92,75.66239999999999
+1130,Standard Class,Virginia,40.99,20.0851
+1131,Standard Class,Virginia,63.9,28.754999999999995
+1133,Standard Class,Pennsylvania,124.608,-23.364000000000004
+1134,Standard Class,Pennsylvania,7.56,2.646
+1141,Standard Class,California,204.6,53.196
+1142,Standard Class,California,8.72,2.877600000000001
+1143,Standard Class,California,6.48,3.1104000000000003
+1144,Standard Class,California,686.32,223.05400000000003
+1145,Standard Class,California,62.18,16.788600000000002
+1151,Standard Class,Ohio,8.352,1.2528000000000006
+1152,Standard Class,Nevada,3.64,1.6380000000000003
+1153,Standard Class,Nevada,159.768,53.9217
+1159,Standard Class,Minnesota,362.94,90.73500000000001
+1160,Standard Class,Minnesota,11.54,5.77
+1162,Standard Class,New York,9.99,4.595400000000001
+1163,Standard Class,New York,125.76,40.872
+1164,Standard Class,New York,25.32,9.1785
+1165,Standard Class,Michigan,46.8,21.06
+1171,Standard Class,Michigan,22.38,10.742399999999998
+1172,Standard Class,California,16.52,5.5755
+1173,Standard Class,Illinois,5.176,-7.763999999999999
+1175,Standard Class,New Hampshire,27.93,8.099699999999999
+1177,Standard Class,Maryland,172.5,51.75
+1178,Standard Class,Maryland,179.97,44.99250000000001
+1180,Standard Class,New Jersey,1322.93,357.1911000000001
+1181,Standard Class,New Jersey,3.76,1.0903999999999998
+1184,Standard Class,Washington,12.096,4.2336
+1185,Standard Class,Washington,485.88,9.717600000000004
+1186,Standard Class,Washington,25.92,12.441600000000001
+1187,Standard Class,Washington,197.58,53.346600000000024
+1197,Standard Class,Texas,431.928,64.7892
+1198,Standard Class,Texas,95.984,-4.113600000000005
+1199,Standard Class,Texas,1088.792,-1850.9464000000003
+1200,Standard Class,Colorado,544.008,40.80060000000003
+1201,Standard Class,Colorado,1.872,-1.4351999999999998
+1202,Standard Class,Colorado,854.352,10.679399999999987
+1203,Standard Class,Colorado,593.568,0.0
+1204,Standard Class,Colorado,338.04,-33.803999999999974
+1212,Standard Class,Pennsylvania,141.372,-48.470399999999984
+1213,Standard Class,Pennsylvania,3.036,-2.3276
+1214,Standard Class,Pennsylvania,4.503,-3.6023999999999994
+1215,Standard Class,Pennsylvania,4.672,1.5767999999999995
+1216,Standard Class,Pennsylvania,95.88,28.763999999999996
+1217,Standard Class,Pennsylvania,17.024,1.7024000000000008
+1218,Standard Class,Pennsylvania,258.696,64.67400000000004
+1219,Standard Class,Pennsylvania,1931.958,-386.3915999999999
+1220,Standard Class,California,249.75,44.95500000000001
+1221,Standard Class,California,255.936,28.7928

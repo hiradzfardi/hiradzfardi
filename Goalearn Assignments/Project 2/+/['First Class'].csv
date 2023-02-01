@@ -1,0 +1,218 @@
+,Ship Mode,State,Sales,Profit
+35,First Class,Texas,1097.544,123.47370000000012
+36,First Class,Texas,190.92,-147.963
+44,First Class,Minnesota,45.98,19.771399999999996
+45,First Class,Minnesota,17.46,8.2062
+55,First Class,New York,208.56,52.140000000000015
+56,First Class,New York,32.4,15.552
+57,First Class,New York,319.41,7.098000000000013
+58,First Class,New York,14.56,6.9888
+59,First Class,New York,30.0,3.3000000000000007
+60,First Class,New York,48.48,16.361999999999995
+61,First Class,New York,1.68,0.84
+69,First Class,Virginia,75.88,35.663599999999995
+75,First Class,Texas,1.248,-1.9344
+76,First Class,Texas,9.708,-5.8248
+77,First Class,Texas,27.24,2.724
+79,First Class,Alabama,208.16,56.20320000000001
+80,First Class,Alabama,16.74,8.035199999999998
+84,First Class,Illinois,230.376,-48.95489999999998
+97,First Class,California,51.312,17.959199999999996
+119,First Class,Delaware,47.04,18.345599999999997
+120,First Class,Delaware,30.84,13.878
+121,First Class,Delaware,226.56,63.436800000000005
+122,First Class,Delaware,115.02,51.75899999999999
+123,First Class,Delaware,68.04,19.731600000000007
+130,First Class,Ohio,59.97,-11.994
+131,First Class,Ohio,78.304,29.364000000000004
+132,First Class,Ohio,21.456,6.9732
+151,First Class,Arizona,157.92,17.76599999999999
+152,First Class,Arizona,203.184,15.238799999999998
+153,First Class,California,58.38,26.271
+154,First Class,California,105.52,48.539199999999994
+155,First Class,California,80.88,21.028799999999997
+160,First Class,California,5.98,2.6910000000000003
+189,First Class,New York,899.136,112.39199999999994
+190,First Class,New York,71.76,20.092800000000004
+191,First Class,New York,51.84,24.883200000000002
+192,First Class,New York,626.352,46.97640000000001
+193,First Class,New York,19.9,6.566999999999998
+201,First Class,Colorado,218.75,-161.875
+202,First Class,Colorado,2.6,0.2925
+219,First Class,Ohio,5.584,1.8147999999999995
+220,First Class,Ohio,22.704,8.2302
+221,First Class,Ohio,19.776,-13.8432
+222,First Class,Ohio,72.704,19.084799999999994
+223,First Class,Ohio,479.988,-383.99039999999997
+224,First Class,Ohio,27.168,2.716799999999999
+252,First Class,New York,80.58,22.562399999999997
+253,First Class,New York,361.92,162.864
+271,First Class,California,209.93,92.3692
+272,First Class,California,5.28,2.3232000000000004
+273,First Class,California,10.92,4.095
+274,First Class,California,8.82,4.0572
+275,First Class,California,5.98,1.5548000000000002
+293,First Class,Colorado,300.416,78.85919999999999
+294,First Class,Colorado,230.352,20.1558
+295,First Class,Colorado,218.352,-24.564599999999984
+296,First Class,Colorado,78.6,-62.879999999999995
+297,First Class,Colorado,27.552,9.2988
+308,First Class,Virginia,4.89,2.0048999999999997
+316,First Class,Pennsylvania,99.136,8.674399999999991
+326,First Class,Pennsylvania,290.898,-67.87619999999998
+327,First Class,Pennsylvania,54.224,3.388999999999996
+328,First Class,Pennsylvania,786.744,-258.50159999999994
+329,First Class,Pennsylvania,100.24,33.83099999999999
+330,First Class,Pennsylvania,37.764,-27.693599999999996
+349,First Class,New York,6.79,2.3086
+350,First Class,New York,24.56,11.543199999999999
+351,First Class,New York,3.048,1.0668
+352,First Class,New York,49.12,23.086399999999998
+353,First Class,New York,4355.168,1415.4295999999995
+359,First Class,Georgia,647.84,168.43840000000006
+360,First Class,Georgia,20.7,9.936
+376,First Class,Illinois,99.136,30.97999999999999
+381,First Class,California,50.96,25.48
+382,First Class,California,49.536,17.337600000000002
+388,First Class,Ohio,2.624,0.4264000000000001
+402,First Class,Florida,9.568,3.4684
+421,First Class,Colorado,196.752,56.56620000000001
+427,First Class,New York,69.99,30.095699999999994
+433,First Class,Massachusetts,714.3,207.14699999999993
+484,First Class,California,29.6,14.8
+485,First Class,California,514.165,-30.245000000000005
+486,First Class,California,279.96,17.497500000000002
+487,First Class,Illinois,2735.952,341.99400000000014
+510,First Class,Missouri,126.3,40.416
+511,First Class,Missouri,38.04,12.172799999999999
+512,First Class,Ohio,7.152,0.7152000000000003
+522,First Class,Michigan,210.98,21.097999999999985
+523,First Class,California,55.176,-12.414599999999993
+524,First Class,California,66.26,27.166600000000003
+540,First Class,Wisconsin,468.9,206.31599999999997
+541,First Class,Arizona,380.864,38.08639999999997
+546,First Class,New York,41.28,13.932000000000002
+547,First Class,New York,13.36,6.4128
+552,First Class,Florida,34.504,6.038199999999996
+563,First Class,Washington,3.96,0.0
+564,First Class,Washington,2.61,1.2006
+565,First Class,California,374.376,46.79699999999997
+598,First Class,Pennsylvania,11.632,1.0177999999999994
+610,First Class,Texas,369.576,41.57730000000004
+611,First Class,Texas,15.712,5.695599999999999
+668,First Class,Ohio,30.36,8.7285
+673,First Class,Indiana,61.44,16.5888
+674,First Class,Indiana,38.9,17.505
+675,First Class,Indiana,99.39,40.749900000000004
+685,First Class,Mississippi,479.97,163.18980000000005
+686,First Class,Mississippi,14.62,6.8713999999999995
+687,First Class,Mississippi,19.44,9.3312
+694,First Class,Pennsylvania,198.272,17.348799999999983
+695,First Class,Pennsylvania,47.36,17.759999999999998
+696,First Class,Pennsylvania,200.984,62.807500000000005
+697,First Class,Pennsylvania,97.696,31.751199999999997
+698,First Class,Pennsylvania,2.696,0.8088000000000002
+699,First Class,Pennsylvania,18.588,-13.6312
+700,First Class,Pennsylvania,4.896,-3.4272
+707,First Class,New York,119.96,52.782399999999996
+708,First Class,New York,883.92,-110.49000000000001
+709,First Class,New York,46.72,15.767999999999997
+710,First Class,New York,55.48,26.630399999999998
+716,First Class,Delaware,9.94,3.0813999999999995
+727,First Class,New York,182.72,84.0512
+728,First Class,New York,400.032,-153.34560000000005
+729,First Class,New York,33.63,10.089000000000002
+730,First Class,New York,542.646,102.49979999999994
+731,First Class,New York,6.3,3.024
+753,First Class,California,1199.976,374.99250000000006
+777,First Class,California,544.008,40.80060000000003
+778,First Class,California,59.94,28.171799999999998
+779,First Class,California,23.92,11.720800000000002
+780,First Class,California,4.28,1.9260000000000002
+796,First Class,New York,132.79,63.7392
+797,First Class,New York,12.96,6.2208000000000006
+798,First Class,New York,21.56,10.348799999999999
+800,First Class,California,22.23,7.3359000000000005
+801,First Class,California,215.968,18.897199999999998
+804,First Class,California,18.28,6.215200000000001
+807,First Class,Nebraska,28.4,11.075999999999997
+808,First Class,Nebraska,149.97,50.9898
+809,First Class,Washington,11.52,3.2256
+810,First Class,Washington,1298.55,311.65199999999993
+811,First Class,Washington,213.92,62.0368
+812,First Class,Washington,25.78,2.5779999999999994
+815,First Class,Wisconsin,51.84,24.883200000000002
+842,First Class,California,37.44,11.7
+843,First Class,California,26.976,8.767199999999999
+844,First Class,California,11.36,3.2943999999999996
+845,First Class,California,14.62,6.8713999999999995
+867,First Class,Pennsylvania,15.936,5.1792
+869,First Class,Pennsylvania,1141.47,-760.98
+870,First Class,Pennsylvania,280.782,-46.797000000000025
+871,First Class,New Hampshire,34.44,17.22
+883,First Class,Michigan,31.4,10.047999999999998
+891,First Class,Michigan,4.54,2.043
+892,First Class,Michigan,15.92,5.412800000000001
+893,First Class,Michigan,543.92,135.97999999999996
+894,First Class,California,155.82,42.0714
+895,First Class,California,70.008,24.502799999999993
+899,First Class,Ohio,8.904,-6.5296
+900,First Class,Texas,10.44,3.393
+901,First Class,Texas,18.336,-32.088
+902,First Class,Illinois,323.976,20.24849999999998
+913,First Class,Wisconsin,46.94,19.245399999999997
+914,First Class,Wisconsin,143.73,56.0547
+925,First Class,Pennsylvania,15.552,5.443199999999999
+926,First Class,Pennsylvania,252.0,53.55000000000001
+929,First Class,Ohio,14.592,2.553600000000001
+930,First Class,Ohio,89.856,21.3408
+931,First Class,Ohio,13.872,5.028599999999999
+937,First Class,New Mexico,159.99,54.39660000000001
+940,First Class,California,17.12,8.0464
+946,First Class,Arizona,393.165,-204.44580000000002
+962,First Class,California,21.88,10.94
+964,First Class,New York,9.82,4.8118
+965,First Class,New York,35.97,9.7119
+966,First Class,New York,12.96,6.2208000000000006
+967,First Class,New York,191.6,91.96799999999999
+968,First Class,New York,8.64,4.233600000000001
+969,First Class,New York,501.81,0.0
+977,First Class,Michigan,3059.982,679.9960000000001
+978,First Class,North Carolina,3.282,-2.6256000000000004
+979,First Class,Indiana,34.02,16.669800000000002
+991,First Class,New York,14.624,5.484
+992,First Class,California,10.23,4.9104
+993,First Class,California,154.9,69.70500000000001
+1006,First Class,Arizona,7.08,2.4779999999999998
+1007,First Class,Arizona,4.401,-3.5208000000000004
+1009,First Class,Illinois,95.984,5.998999999999995
+1010,First Class,California,151.72,27.309600000000003
+1024,First Class,California,11.808,4.2804
+1033,First Class,Ohio,15.696,5.1012
+1034,First Class,Ohio,2.628,-1.9272
+1035,First Class,Ohio,14.427,-10.579799999999999
+1037,First Class,California,36.624,13.734000000000002
+1038,First Class,North Carolina,23.968,2.6964000000000006
+1039,First Class,North Carolina,28.728,1.7955000000000005
+1043,First Class,Illinois,8.84,2.9835000000000003
+1044,First Class,Illinois,58.464,-146.16
+1050,First Class,Pennsylvania,168.464,-29.4812
+1051,First Class,Pennsylvania,6.72,2.436
+1052,First Class,Pennsylvania,282.888,56.57759999999999
+1067,First Class,California,194.848,12.178000000000026
+1076,First Class,Indiana,40.88,10.628800000000002
+1097,First Class,California,447.84,11.19599999999997
+1098,First Class,California,7.04,2.0416
+1099,First Class,California,8.73,4.1031
+1100,First Class,California,29.29,9.665699999999998
+1101,First Class,California,8.64,2.5056000000000003
+1132,First Class,California,19.44,9.3312
+1154,First Class,Virginia,122.48,0.0
+1155,First Class,Virginia,2244.48,493.78559999999993
+1156,First Class,Virginia,62.31,29.285700000000006
+1157,First Class,Virginia,455.1,100.12200000000001
+1174,First Class,New York,50.112,16.2864
+1182,First Class,North Carolina,21.744,7.3386
+1183,First Class,North Carolina,7.92,0.6929999999999996
+1205,First Class,North Carolina,271.96,16.997499999999974
+1222,First Class,New York,113.79,20.482200000000006
